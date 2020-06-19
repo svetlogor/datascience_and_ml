@@ -8,6 +8,10 @@
 <i>Бизнес-задача – на основании имеющихся данных подготовить аналитический отчет.</i>
 </li>
 
+<li><b>Курсовая работа: </b> <a href="https://github.com/svetlogor/datascience_and_ml/blob/master/Coursework_ML.ipynb">Coursework_ML.ipynb</a><br>
+<i>Бизнес-задача – спрогнозировать отток пользователей телекоммуникационной компании.</i>
+</li>
+
 <li><b>Классификация: </b> <a href="https://github.com/svetlogor/datascience_and_ml/blob/master/classification.ipynb">classification.ipynb</a><br>
 <i>Многоклассовая классификация.</i>
 </li>
